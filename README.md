@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on ... React Components, Testing
 
-- 🌱 I’m currently learning ... GraphQL, Gatsby, RedwoodJS
+- 🌱 I’m currently learning ... GraphQL, Gatsby, Snowpack
 
 - 💬 Ask me about ... Frontend Development
 
